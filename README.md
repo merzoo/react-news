@@ -2,6 +2,6 @@
 
 # USAGE
 
-- checkout branch feature/xxx
+- git checkout feature/xxx
 - npm install
 - npm start
